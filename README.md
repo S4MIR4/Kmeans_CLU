@@ -18,3 +18,5 @@ Here you can see the scatterplot of the points together with their clusters colo
 
 ![figure_1](Figure_1.png)
 
+
+![figure_2](Figure_2.png)
