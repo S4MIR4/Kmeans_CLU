@@ -16,5 +16,5 @@ Steps 2 and 3 are repeated until centroids stabilize (convergence) or a maximum 
 
 Here you can see the scatterplot of the points together with their clusters colored (n_clu = 8). 
 
-![Example Image](example.png)
+![Example Image](Figure1.png)
 
